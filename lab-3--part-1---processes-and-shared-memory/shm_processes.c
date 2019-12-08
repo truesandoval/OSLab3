@@ -19,7 +19,7 @@ int  main(int  argc, char *argv[])
      pipe(fd);
 
      if (argc != 11) {
-          printf("Use: %s #1 #2 #3 #4 ...\n", argv[0]);
+          printf("Use: %s #1 #2 #3 #4 #5 #6 #7 #8 #9 #10\n", argv[0]);
           exit(1);
      }
 
